@@ -46,7 +46,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: a40eb721f39814a429b820b2432f26ba, type: 3}
     - {fileID: 2800000, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
     - {fileID: 2800000, guid: 45e6044ef8210d341bb5d0a74b6e9ccc, type: 3}
-    totalSpriteSurfaceArea: 123302
+    totalSpriteSurfaceArea: 123527
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -61,10 +61,12 @@ SpriteAtlas:
   - {fileID: -8887605192545522, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: 7395559540380912389, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: -7666812891430715680, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
+  - {fileID: 7526595147371301982, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: 7466427622202046938, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: 2821378863995277538, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: 4489838820935638777, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: 7265313343042191254, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
+  - {fileID: -4862449111648836063, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: -4871644234308700824, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: -6362549862341014049, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
   - {fileID: -9085773957535209297, guid: ade9025ddf6c53041bfe6809b667fcc6, type: 3}
@@ -108,10 +110,12 @@ SpriteAtlas:
   - Props_12
   - Props_15
   - Props_14
+  - Props_17
   - Props_2
   - Props_16
   - Props_3
   - Props_0
+  - Props_18
   - Props_1
   - Props_6
   - Props_7
